@@ -1,0 +1,9 @@
+Cloning an real time website
+----------------------------
+    *Cloned the login screen of the codechef website.
+
+Challenges faced
+----------------
+    *Faced a problem in getting the "Or-division". Solved it by using two divsions for line and a Paragraph
+     tag for the "or".
+    
