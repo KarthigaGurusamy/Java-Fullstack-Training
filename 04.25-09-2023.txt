@@ -1,0 +1,20 @@
+Cloning a complete website
+--------------------------
+    *Today, Cloned a complete single page website as a static website.
+
+Cloned website
+--------------
+    *Toasttab Website
+    
+Tags used
+---------
+    *div
+    *img
+    *video
+    *Relative CSS
+    *Pseudo CSS
+
+
+Cloned Website link
+-------------------
+https://karthigagurusamy.github.io/Toast-Website/
