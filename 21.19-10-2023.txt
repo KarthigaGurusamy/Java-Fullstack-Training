@@ -10,6 +10,7 @@ Angular concepts
         -It is a guard used to control the navigation.
         -It is used to notify/get confirmation from user.
 
+->Pagination
 
 Task 
 ----
