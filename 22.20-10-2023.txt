@@ -55,5 +55,5 @@ Errors
     *Character array doesn't print when it prints with concatenation .
     *If continue used and its true in if condition in loop , the code next to the continue doesn't work.
     *Break statement terminates the loop if the condition is true.
-    *String  class is immutable 
+    *String  class is immutable.
     *String buffer and string builder is mutable , can be modified.
