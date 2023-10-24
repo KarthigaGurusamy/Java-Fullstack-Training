@@ -1,35 +1,35 @@
 Java Concepts
 -------------
     *Datatypes
-        ->Int 
-        ->Float
-        ->Double
-        ->Char
-        ->Boolean 
-        ->Short
-        ->Long
-        ->Byte
-        ->String
+        - Int 
+        - Float
+        - Double
+        - Char
+        - Boolean 
+        - Short
+        - Long
+        - Byte
+        - String
     *Array
-        ->Array Declaration
-        ->Array Initialization
-        ->Array Size Specified Declaration
+        - Array Declaration
+        - Array Initialization
+        - Array Size Specified Declaration
     *Conditions
-        ->If
-        ->If-Else
-        ->Switch
+        - If
+        - If-Else
+        - Switch
     *Loops
-        ->For
-        ->For Each
-        ->While
-        ->Do While
+        - For
+        - For Each
+        - While
+        - Do While
     *Math
     *String,String Buffer and String Builder
     *Methods
-        ->With Arugument
-        ->Without Arugument
-        ->With Return Type
-        ->Without Return Type
+        - With Arugument
+        - Without Arugument
+        - With Return Type
+        - Without Return Type
 
     *Try & Catch
     *Scanner class
@@ -38,9 +38,9 @@ Java Concepts
 Task
 ----
     Build an console app for ATM application
-        ->Balance
-        ->Deposit
-        ->Withdrawal
+        - Balance
+        - Deposit
+        - Withdrawal
 
  
 
