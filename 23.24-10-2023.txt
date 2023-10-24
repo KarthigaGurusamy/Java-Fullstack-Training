@@ -9,11 +9,11 @@ Java Concepts
     *Override 
         - Run time polymorphism. 
     *Inheritance 
-        -Upcasting 
-        -Downcasting
+        - Upcasting 
+        - Downcasting
     *Interface 
     *Constructor 
-        -Overloading
+        - Overloading
     *Abstract 
         - Abstract class.
         - Abstract methods.
