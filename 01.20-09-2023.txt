@@ -17,7 +17,7 @@ Example : Consider whatsapp is sending an request. First the request is sent to 
 the server and the response is generated from the server.
 
 
-Scenerio : OTPs in whatsapp
+Scenerio : OTPs in whatsApp
 --------------------------
 If a person books a ticket in redbus or orders something in meesho the OTP is generated and sent to the person's 
 whatsapp number. In this kind of things the redbus or the meesho server communicates with the whatsapp server.
