@@ -18,13 +18,13 @@ SQL Task
         - Orders 
 
 
-Servelet 
+Servlet 
 -------
-    *Servelet Creation 
-    *Servelet mapping 
-    *Session servelet 
-    *Cookie servelet 
-    *HttpServelet (GET, POST)
+    *Servlet Creation 
+    *Servlet mapping 
+    *Session servlet 
+    *Cookie servlet 
+    *HttpServlet (GET, POST)
 
 
 -> Used 'Tomcat' server for client-server communication for request and response.
