@@ -7,6 +7,7 @@ Caravan and Camping Reservation System
             - Profile 
             - Booking 
             - Staff
+            - User Bookings
             
         -> Add HttpRequests for the following in the controller
                 1. Login with validation
