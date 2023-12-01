@@ -1,0 +1,12 @@
+Caravan and Camping Reservation System 
+--------------------------------------
+    *Continued with the UI changes for the project.
+        - Added Lottie animations.
+        - Added admin dashboard with the following
+            1. Total Campings 
+            2. Total Locations 
+            3. Total Bookings 
+
+        - Made UI changes for user profile.
+        - Added confirmation for booking using lottie.
+        - Added image pop up for camping and locations in admin page.
